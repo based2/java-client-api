@@ -6,8 +6,6 @@
 
 package com.offbytwo.jenkins.model;
 
-import static org.apache.commons.lang.StringUtils.join;
-
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.IOException;
